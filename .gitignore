@@ -1,0 +1,16 @@
+# Generated data and models
+data/processed/
+models/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment
+.env
+venv/
+env/
+
+# Other common exclusions
+.DS_Store 
